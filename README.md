@@ -4,7 +4,7 @@
         Describe your project here.
 
         ## 📁 Directory Structure
-        ```
+```
 │   ├── memory
 │   ├── __init__.py
 │   ├── agenda.py
