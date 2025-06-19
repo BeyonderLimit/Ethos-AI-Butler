@@ -1,0 +1,16 @@
+babel
+cv2
+dateparser
+deepface
+feedparser
+fer
+imageio
+matplotlib
+newspaper
+numpy
+open_meteo
+parsedatetime
+pyaudio
+requests
+spacy
+vosk
