@@ -1,0 +1,1 @@
+See piper voices for choosing model: https://huggingface.co/rhasspy/piper-voices
